@@ -6,6 +6,8 @@ in the browser.
 
 Built with **React 19 + Vite + Tailwind CSS v4**. No backend.
 
+Repo: <https://github.com/rizantaa/interstellar-shelf>
+
 ## Features
 
 - **Two catalogs, one UI** — Movies and Books share the same components (`ItemCard`,
