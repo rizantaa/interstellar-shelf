@@ -7,6 +7,7 @@ in the browser.
 Built with **React 19 + Vite + Tailwind CSS v4**. No backend.
 
 Repo: <https://github.com/rizantaa/interstellar-shelf>
+Live: <https://interstellar-shelf.vercel.app>
 
 ## Features
 
