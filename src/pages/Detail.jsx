@@ -13,6 +13,7 @@ import { ArrowLeftIcon } from '../components/ui/icons.jsx'
 import { getItem, getSimilar } from '../lib/dataSource/index.js'
 import { typeLabel } from '../lib/format.js'
 import { useSaved } from '../hooks/useSaved.js'
+import { useDocumentTitle } from '../hooks/useDocumentTitle.js'
 import { NotFound } from './NotFound.jsx'
 
 const VALID_TYPES = ['movie', 'book']
@@ -23,6 +24,8 @@ export function Detail() {
 
   const item = VALID_TYPES.includes(type) ? getItem(type, id) : null
   const similar = useMemo(() => (item ? getSimilar(item, 5) : []), [item])
+
+  useDocumentTitle(item?.title)
 
   if (!item) {
     return (

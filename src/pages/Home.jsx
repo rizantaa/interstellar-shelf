@@ -14,6 +14,7 @@ import { BookIcon, FilmIcon, SearchOffIcon } from '../components/ui/icons.jsx'
 import { getFeatured } from '../lib/dataSource/index.js'
 import { pluralTypeLabel } from '../lib/format.js'
 import { useCatalog } from '../hooks/useCatalog.js'
+import { useDocumentTitle } from '../hooks/useDocumentTitle.js'
 
 const TABS = [
   { value: 'movie', label: 'Movies', icon: <FilmIcon size={15} /> },
@@ -27,16 +28,21 @@ export function Home() {
   // The hero always shows the top-rated title of the active tab, ignoring filters.
   const featured = useMemo(() => getFeatured(type), [type])
 
+  useDocumentTitle(type === 'movie' ? 'Movies' : 'Books')
+
   return (
     <>
-      <Container className="pt-8">
-        <ItemHero item={featured} />
-      </Container>
+      {/* While searching, the hero competes with the results — hide it. */}
+      {!isFiltering ? (
+        <Container className="pt-8">
+          <ItemHero item={featured} />
+        </Container>
+      ) : null}
 
-      <Container className="pt-10">
+      <Container className={isFiltering ? 'pt-8' : 'pt-10'}>
         <div className="flex flex-wrap items-center justify-between gap-4">
           <Tabs tabs={TABS} value={type} onChange={catalog.setType} />
-          <p className="text-sm text-muted">
+          <p className="text-sm text-muted" aria-live="polite">
             <span className="font-semibold text-ink">{total}</span>{' '}
             {total === 1 ? 'title' : 'titles'}
             {isFiltering ? ' match your filters' : ` in ${pluralTypeLabel(type)}`}

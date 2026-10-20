@@ -90,6 +90,21 @@ To go live: implement `tmdb.js` (films, needs `VITE_TMDB_API_KEY`) and/or
 are keyed by id, switching providers means previously saved ids may no longer resolve —
 `SavedContext` simply drops the ones it cannot find.
 
+## Deploy
+
+The build output is a static SPA, so any static host works. `vercel.json` already
+configures the SPA rewrite (so `/movie/movie-inception` opens directly instead of 404ing)
+and long-lived caching for hashed assets.
+
+```bash
+npm run build
+npx vercel          # first run links/creates the project and asks you to log in
+npx vercel --prod   # promote to the production URL
+```
+
+Alternative without a CLI login: run `npm run build`, then drag the `dist` folder onto
+<https://vercel.com/new>.
+
 ## Notes
 
 - Only `userId`-free public endpoints are used, so there is nothing to configure or leak.

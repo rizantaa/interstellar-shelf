@@ -9,6 +9,7 @@ import { BookmarkIcon } from '../components/ui/icons.jsx'
 import { getItem } from '../lib/dataSource/index.js'
 import { BOOK_STATUS, BOOK_STATUS_ORDER } from '../lib/format.js'
 import { useSaved } from '../hooks/useSaved.js'
+import { useDocumentTitle } from '../hooks/useDocumentTitle.js'
 
 /** Resolves stored ids into items, dropping any id the current data source no longer knows. */
 function useSavedItems(itemType, savedIds) {
@@ -25,6 +26,8 @@ export function Saved() {
   const saved = useSaved()
   const movies = useSavedItems('movie', saved.savedIds)
   const books = useSavedItems('book', saved.savedIds)
+
+  useDocumentTitle('Saved')
 
   const isEmpty = !movies.length && !books.length
 
