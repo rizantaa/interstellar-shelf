@@ -1,0 +1,216 @@
+[
+  {
+    "id": "movie-inception",
+    "type": "movie",
+    "title": "Inception",
+    "creator": "Christopher Nolan",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Action"
+    ],
+    "rating": 8.8,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "description": "Inception is a 2010 science fiction heist film written and directed by Christopher Nolan, who also produced it with his wife Emma Thomas. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating his targets' subconscious. He is offered a chance to have his criminal history erased as payment for implanting an idea into a target's subconscious. The ensemble cast includes Ken…",
+    "extra": {
+      "runtime": 148
+    }
+  },
+  {
+    "id": "movie-interstellar",
+    "type": "movie",
+    "title": "Interstellar",
+    "creator": "Christopher Nolan",
+    "year": 2014,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "rating": 8.7,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "description": "Interstellar is a 2014 epic science fiction drama film directed by Christopher Nolan, who co-wrote the screenplay with his brother, Jonathan Nolan. It features an ensemble cast led by Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where Earth is suffering from catastrophic blight and famine, the film follows a group of astronauts who…",
+    "extra": {
+      "runtime": 169
+    }
+  },
+  {
+    "id": "movie-the-dark-knight",
+    "type": "movie",
+    "title": "The Dark Knight",
+    "creator": "Christopher Nolan",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "description": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan. Based on the DC Comics superhero Batman, it is the sequel to Batman Begins (2005), and the second installment in The Dark Knight trilogy. The plot follows the vigilante Batman, police lieutenant James Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime…",
+    "extra": {
+      "runtime": 152
+    }
+  },
+  {
+    "id": "movie-parasite",
+    "type": "movie",
+    "title": "Parasite",
+    "creator": "Bong Joon-ho",
+    "year": 2019,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ],
+    "rating": 8.5,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+    "description": "Parasite (Korean: 기생충) is a 2019 South Korean black comedy thriller film directed by Bong Joon Ho, who co-wrote the screenplay with Han Jin-won. It stars Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, Park Myung-hoon, and Lee Jung-eun. The film follows a poor family who infiltrate the home and life of a wealthy family.",
+    "extra": {
+      "runtime": 132
+    }
+  },
+  {
+    "id": "movie-spirited-away",
+    "type": "movie",
+    "title": "Spirited Away",
+    "creator": "Hayao Miyazaki",
+    "year": 2001,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 8.6,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+    "description": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki. It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho. The film stars Rumi Hiiragi, alongside Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara. It follows a young girl named Chihiro \"Sen\" Ogino, who moves to a new neighborhood and…",
+    "extra": {
+      "runtime": 125
+    }
+  },
+  {
+    "id": "movie-pulp-fiction",
+    "type": "movie",
+    "title": "Pulp Fiction",
+    "creator": "Quentin Tarantino",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.9,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "description": "Pulp Fiction is a 1994 American crime film written and directed by Quentin Tarantino from a story he conceived with Roger Avary. It tells four intertwining tales of crime and violence in Los Angeles. The film stars John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames, and Uma Thurman. The title refers to the pulp magazines and hardboiled crime novels popular during the mid-twentieth century, known…",
+    "extra": {
+      "runtime": 154
+    }
+  },
+  {
+    "id": "movie-the-grand-budapest-hotel",
+    "type": "movie",
+    "title": "The Grand Budapest Hotel",
+    "creator": "Wes Anderson",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png",
+    "description": "The Grand Budapest Hotel is a 2014 comedy-drama film written and directed by Wes Anderson. The film's seventeen-actor ensemble cast is led by Ralph Fiennes as Monsieur Gustave H., famed concierge of a twentieth-century mountainside resort in the fictional country of Zubrowka. After being framed for the murder of a wealthy dowager, he and his recently befriended protégé Zero embark on a quest for fortune and a…",
+    "extra": {
+      "runtime": 99
+    }
+  },
+  {
+    "id": "movie-whiplash",
+    "type": "movie",
+    "title": "Whiplash",
+    "creator": "Damien Chazelle",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "rating": 8.5,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg",
+    "description": "Whiplash is a 2014 American drama film written and directed by Damien Chazelle, and starring Miles Teller, J. K. Simmons, and Paul Reiser. It focuses on an ambitious music student and aspiring jazz drummer (Teller), who is pushed to his limit by his abusive instructor (Simmons).",
+    "extra": {
+      "runtime": 106
+    }
+  },
+  {
+    "id": "movie-arrival",
+    "type": "movie",
+    "title": "Arrival",
+    "creator": "Denis Villeneuve",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 7.9,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg",
+    "description": "Arrival is a 2016 American science fiction drama film directed by Denis Villeneuve and written by Eric Heisserer, based on the 1998 novella \"Story of Your Life\" by Ted Chiang. The film stars Amy Adams as Louise Banks, a linguist engaged by the United States Army to discover how to communicate with extraterrestrials who have arrived on Earth, before tensions lead to war. Jeremy Renner, Forest Whitaker, and Michael…",
+    "extra": {
+      "runtime": 116
+    }
+  },
+  {
+    "id": "movie-the-shawshank-redemption",
+    "type": "movie",
+    "title": "The Shawshank Redemption",
+    "creator": "Frank Darabont",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating": 9.3,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "description": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption. The film tells the story of banker Andy Dufresne, who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover, despite his claims of innocence. Over the following two decades, he befriends a fellow prisoner,…",
+    "extra": {
+      "runtime": 142
+    }
+  },
+  {
+    "id": "movie-mad-max-fury-road",
+    "type": "movie",
+    "title": "Mad Max: Fury Road",
+    "creator": "George Miller",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": 8.1,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+    "description": "Mad Max: Fury Road is a 2015 Australian post-apocalyptic action film co-written, co-produced and directed by George Miller, who collaborated with Brendan McCarthy and Nico Lathouris on the screenplay. The fourth instalment in the Mad Max franchise, it was produced by Village Roadshow Pictures and Kennedy Miller Mitchell, and distributed by Roadshow Entertainment in Australia and by Warner Bros. Pictures…",
+    "extra": {
+      "runtime": 120
+    }
+  },
+  {
+    "id": "movie-your-name",
+    "type": "movie",
+    "title": "Your Name",
+    "creator": "Makoto Shinkai",
+    "year": 2016,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Fantasy"
+    ],
+    "rating": 8.4,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+    "description": "Your Name is a 2016 Japanese animated romantic fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. The first installment of what critics deem Shinkai's \"disaster trilogy\"—followed by Weathering with You (2019) and Suzume (2022)—whose three entries share themes inspired by the frequency of natural disasters in Japan, it follows high school students Taki Tachibana…",
+    "extra": {
+      "runtime": 106
+    }
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "book-dune",
+    "type": "book",
+    "title": "Dune",
+    "creator": "Frank Herbert",
+    "year": 1965,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 4.7,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11481354-L.jpg",
+    "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for... When House Atreides is betrayed, the destruction of Paul's family will set the boy on a…",
+    "extra": {
+      "pages": 608
+    }
+  },
+  {
+    "id": "book-nineteen-eighty-four",
+    "type": "book",
+    "title": "1984",
+    "creator": "George Orwell",
+    "year": 1949,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Politics"
+    ],
+    "rating": 4.7,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+    "description": "Nineteen Eighty-Four: A Novel, often referred to as 1984, is a dystopian social science fiction novel by the English novelist George Orwell (the pen name of Eric Arthur Blair). It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation…",
+    "extra": {
+      "pages": 318
+    }
+  },
+  {
+    "id": "book-to-kill-a-mockingbird",
+    "type": "book",
+    "title": "To Kill a Mockingbird",
+    "creator": "Harper Lee",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "rating": 4.8,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+    "description": "One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than 40 languages, sold more than 30 million copies worldwide, served as the basis for an enormously popular motion picture, and voted one of the best novels of the 20th century by librarians across the United States. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent…",
+    "extra": {
+      "pages": 320
+    }
+  },
+  {
+    "id": "book-the-hobbit",
+    "type": "book",
+    "title": "The Hobbit",
+    "creator": "J. R. R. Tolkien",
+    "year": 1937,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "rating": 4.8,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14627509-L.jpg",
+    "description": "The Hobbit is a tale of high adventure, undertaken by a company of dwarves in search of dragon-guarded gold. A reluctant partner in this perilous quest is Bilbo Baggins, a comfort-loving unambitious hobbit, who surprises even himself by his resourcefulness and skill as a burglar. Encounters with trolls, goblins, dwarves, elves, and giant spiders, conversations with the dragon, Smaug, and a rather unwilling presence…",
+    "extra": {
+      "pages": 310
+    }
+  },
+  {
+    "id": "book-the-name-of-the-wind",
+    "type": "book",
+    "title": "The Name of the Wind",
+    "creator": "Patrick Rothfuss",
+    "year": 2007,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "rating": 4.6,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11480483-L.jpg",
+    "description": "***The Name of the Wind***, also called ***The Kingkiller Chronicle: Day One***, is a heroic fantasy novel written by American author Patrick Rothfuss. It is the first book in the ongoing fantasy trilogy ***The Kingkiller Chronicle***. It was published on March 27, 2007, by DAW Books, the novel has been hailed as a masterpiece of high fantasy. The story begins the tale of Kvothe (pronounced \"quothe\"), a young man who…",
+    "extra": {
+      "pages": 736
+    }
+  },
+  {
+    "id": "book-sapiens-a-brief-history-of-humankind",
+    "type": "book",
+    "title": "Sapiens",
+    "creator": "Yuval Noah Harari",
+    "year": 2011,
+    "genres": [
+      "History",
+      "Science",
+      "Politics"
+    ],
+    "rating": 4.5,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8634250-L.jpg",
+    "description": "From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others?…",
+    "extra": {
+      "pages": 456
+    }
+  },
+  {
+    "id": "book-the-midnight-library",
+    "type": "book",
+    "title": "The Midnight Library",
+    "creator": "Matt Haig",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10313767-L.jpg",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived. To see how things would be if you had made other choices . . . Would you have done anything different, if you had the chance to undo your regrets?” A dazzling novel about all the choices that go into a life well lived, from the internationally…",
+    "extra": {
+      "pages": 304
+    }
+  },
+  {
+    "id": "book-project-hail-mary",
+    "type": "book",
+    "title": "Project Hail Mary",
+    "creator": "Andy Weir",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Science"
+    ],
+    "rating": 4.8,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11200092-L.jpg",
+    "description": "Ryland Grace is the sole survivor on a desperate, last-chance mission–and if he fails, humanity and the earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it. All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with…",
+    "extra": {
+      "pages": 496
+    }
+  },
+  {
+    "id": "book-norwegian-wood",
+    "type": "book",
+    "title": "Norwegian Wood",
+    "creator": "Haruki Murakami",
+    "year": 1987,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/2237620-L.jpg",
+    "description": "As his plane lands at a European airport, thirty-seven-year-old Toru Watanabe casually hears an old Beatles song. Suddenly, the music transports him back to his youth, to the turbulent Tokyo of the late sixties. He then remembers, with melancholy and unease, the unstable and mysterious Naoko, the girlfriend of his best—and only—friend from adolescence, Kizuki, and how Kizuki's suicide distanced them for a year until…",
+    "extra": {
+      "pages": 389
+    }
+  },
+  {
+    "id": "book-the-left-hand-of-darkness",
+    "type": "book",
+    "title": "The Left Hand of Darkness",
+    "creator": "Ursula K. Le Guin",
+    "year": 1969,
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "rating": 4.5,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10618463-L.jpg",
+    "description": "[Comment by Kim Stanley Robinson, on The Guardian's website](https://www.theguardian.com/books/2011/may/14/science-fiction-authors-choice): The Left Hand of Darkness by Ursula K Le Guin (1969) > One of my favorite novels is The Left Hand of Darkness, by Ursula K Le Guin. For more than 40 years I've been recommending this book to people who want to try science fiction for the first time, and it still serves very well…",
+    "extra": {
+      "pages": 304
+    }
+  },
+  {
+    "id": "book-educated",
+    "type": "book",
+    "title": "Educated",
+    "creator": "Tara Westover",
+    "year": 2018,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "rating": 4.6,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8314077-L.jpg",
+    "description": "*Educated* is a 2018 memoir by the American author Tara Westover. Westover recounts overcoming her survivalist Mormon family in order to go to college, and emphasizes the importance of education in enlarging her world. She details her journey from her isolated life in the mountains of Idaho to completing a PhD program in history at Cambridge University. She started college at the age of 17 having had no formal…",
+    "extra": {
+      "pages": 384
+    }
+  },
+  {
+    "id": "book-the-silent-patient",
+    "type": "book",
+    "title": "The Silent Patient",
+    "creator": "Alex Michaelides",
+    "year": 2018,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 4.2,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9407338-L.jpg",
+    "description": "Alicia Berenson’s life is seemingly perfect. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word. Alicia’s refusal to talk, or give any kind of explanation, turns a domestic tragedy into something far grander, a mystery that captures the public imagination and casts Alicia into notoriety. The price of her art…",
+    "extra": {
+      "pages": 352
+    }
+  }
+]
