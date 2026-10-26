@@ -1,8 +1,8 @@
 # Shelf — Film & Book Catalog
 
-A small, dependency-light catalog of films and books. Browse a curated set, search it,
-filter by genre, sort it, and save titles to a watchlist or a reading list that persists
-in the browser.
+A small, dependency-light catalog of films and books — **30 films and 30 books**. Browse the
+set, search it, filter by genre, sort it, and save titles to a watchlist or a reading list
+that persists in the browser.
 
 Built with **React 19 + Vite + Tailwind CSS v4**. No backend.
 
@@ -29,10 +29,12 @@ Live: <https://interstellar-shelf.vercel.app>
 
 ```bash
 npm install
-npm run dev      # http://localhost:5173
-npm run build    # production bundle in dist/
-npm run preview  # serve the built bundle
-npm run lint     # oxlint
+npm run dev          # http://localhost:5173
+npm run build        # production bundle in dist/
+npm run preview      # serve the built bundle
+npm run lint         # oxlint
+npm run smoke        # SSR-render every route and assert the markup
+npm run check:covers # HEAD-request every cover URL in src/data
 ```
 
 ## Project layout
@@ -55,6 +57,7 @@ src/
   pages/       Home, Detail, Saved, NotFound
 scripts/
   fetch-data.mjs   regenerates src/data/*.json
+  check-covers.mjs verifies every coverUrl still answers 200
 ```
 
 ## Data
@@ -71,8 +74,23 @@ The bundled JSON was generated from public sources, not invented:
 Film ratings are on a 0–10 scale, book ratings on 0–5. Regenerate the snapshots with:
 
 ```bash
-node scripts/fetch-data.mjs
+node scripts/fetch-data.mjs   # or: npm run data
+npm run check:covers          # after regenerating, make sure no cover 404s
 ```
+
+Both APIs return "best guess" matches, and Open Library files works under their original
+title (`Norwegian Wood` comes back as 「ノルウェイの森」 by 「村上春樹」). A plain search
+would happily swap in a comic adaptation or a boxed set, so the generator:
+
+- **validates every record** against the curated title, creator and year. Author names are
+  resolved through the author record, so romanised and native spellings both pass. Anything
+  that does not line up is printed as `MISMATCH` and makes the script exit non-zero.
+- **discards junk blurbs** — Open Library descriptions are community-entered and are
+  sometimes empty or just "Best book ever". Those fall back to the Wikipedia lead
+  paragraph when a `wiki` article is configured.
+- **throttles, retries and caches.** Every response is stored in `.cache/fetch-data.json`
+  (gitignored), so a re-run only touches what changed and stays inside Wikipedia's rate
+  limits.
 
 ## Swapping in a live API
 

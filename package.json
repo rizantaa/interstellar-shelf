@@ -8,6 +8,8 @@
     "build": "vite build",
     "lint": "oxlint",
     "smoke": "vite build --ssr scripts/smoke.jsx --outDir .smoke --logLevel warn && node .smoke/smoke.js",
+    "check:covers": "node scripts/check-covers.mjs",
+    "data": "node scripts/fetch-data.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

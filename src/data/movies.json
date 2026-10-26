@@ -137,7 +137,7 @@
     ],
     "rating": 8.5,
     "coverUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg",
-    "description": "Whiplash is a 2014 American drama film written and directed by Damien Chazelle, and starring Miles Teller, J. K. Simmons, and Paul Reiser. It focuses on an ambitious music student and aspiring jazz drummer (Teller), who is pushed to his limit by his abusive instructor (Simmons).",
+    "description": "Whiplash is a 2014 American psychological drama film written and directed by Damien Chazelle, and starring Miles Teller, J. K. Simmons, and Paul Reiser. It focuses on an ambitious music student and aspiring jazz drummer (Teller), who is pushed to his limit by his abusive instructor (Simmons).",
     "extra": {
       "runtime": 106
     }
@@ -211,6 +211,324 @@
     "description": "Your Name is a 2016 Japanese animated romantic fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. The first installment of what critics deem Shinkai's \"disaster trilogy\"—followed by Weathering with You (2019) and Suzume (2022)—whose three entries share themes inspired by the frequency of natural disasters in Japan, it follows high school students Taki Tachibana…",
     "extra": {
       "runtime": 106
+    }
+  },
+  {
+    "id": "movie-get-out",
+    "type": "movie",
+    "title": "Get Out",
+    "creator": "Jordan Peele",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 7.8,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+    "description": "Get Out is a 2017 American psychological horror film written, co-produced, and directed by Jordan Peele in his directorial debut. It stars Daniel Kaluuya, Allison Williams, Lil Rel Howery, LaKeith Stanfield, Bradley Whitford, Caleb Landry Jones, Stephen Root, Catherine Keener, and Betty Gabriel. The plot follows a young black man (Kaluuya), who uncovers shocking secrets when he meets the family of his white…",
+    "extra": {
+      "runtime": 104
+    }
+  },
+  {
+    "id": "movie-hereditary",
+    "type": "movie",
+    "title": "Hereditary",
+    "creator": "Ari Aster",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 7.3,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+    "description": "Hereditary is a 2018 American supernatural psychological horror film written and directed by Ari Aster in his feature directorial debut. Starring Toni Collette, Alex Wolff, Milly Shapiro, Ann Dowd, and Gabriel Byrne, the film follows Annie Graham (Collette), a grieving miniature artist who uncovers disturbing secrets about her recently deceased mother. She is subsequently tormented by sinister paranormal occurrences,…",
+    "extra": {
+      "runtime": 127
+    }
+  },
+  {
+    "id": "movie-before-sunrise",
+    "type": "movie",
+    "title": "Before Sunrise",
+    "creator": "Richard Linklater",
+    "year": 1995,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 8.1,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg",
+    "description": "Before Sunrise is a 1995 romantic drama film directed by Richard Linklater and co-written by Linklater and Kim Krizan, and is the first installment in the Before trilogy. In the film, Jesse and Céline meet on a train and disembark in Vienna to spend the night together.",
+    "extra": {
+      "runtime": 101
+    }
+  },
+  {
+    "id": "movie-la-la-land",
+    "type": "movie",
+    "title": "La La Land",
+    "creator": "Damien Chazelle",
+    "year": 2016,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "rating": 8,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+    "description": "La La Land is a 2016 American musical romantic comedy drama film written and directed by Damien Chazelle. It stars Ryan Gosling and Emma Stone as a struggling jazz pianist and an aspiring actress who meet and fall in love while pursuing their dreams in Los Angeles. The supporting cast includes John Legend, Rosemarie DeWitt, Finn Wittrock, and J. K. Simmons.",
+    "extra": {
+      "runtime": 128
+    }
+  },
+  {
+    "id": "movie-schindler-s-list",
+    "type": "movie",
+    "title": "Schindler's List",
+    "creator": "Steven Spielberg",
+    "year": 1993,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "rating": 9,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg",
+    "description": "Schindler's List is a 1993 American historical drama film directed and co-produced by Steven Spielberg and written by Steven Zaillian. It is based on the historical novel Schindler's Ark (1982) by Thomas Keneally. The film follows Oskar Schindler, a German industrialist who saved more than a thousand mostly Polish–Jewish refugees from the Holocaust by employing them in his factories during World War II. It stars Liam…",
+    "extra": {
+      "runtime": 195
+    }
+  },
+  {
+    "id": "movie-oppenheimer",
+    "type": "movie",
+    "title": "Oppenheimer",
+    "creator": "Christopher Nolan",
+    "year": 2023,
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.3,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+    "description": "Oppenheimer is a 2023 epic biographical thriller film written, co-produced, and directed by Christopher Nolan. It follows the life of J. Robert Oppenheimer, the American theoretical physicist who led the development of the first nuclear weapons during World War II. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film dramatizes Oppenheimer's studies, his direction of the Los…",
+    "extra": {
+      "runtime": 180
+    }
+  },
+  {
+    "id": "movie-the-big-lebowski",
+    "type": "movie",
+    "title": "The Big Lebowski",
+    "creator": "Joel Coen",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 8.1,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg",
+    "description": "The Big Lebowski is a 1998 neo-noir crime comedy film written, directed, produced and co-edited by Joel and Ethan Coen, and starring Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, and John Turturro. It follows the life of Jeffrey \"The Dude\" Lebowski, a Los Angeles slacker and avid bowler who is assaulted as a result of mistaken identity and becomes embroiled in a kidnapping and ransom scheme focused on a…",
+    "extra": {
+      "runtime": 117
+    }
+  },
+  {
+    "id": "movie-everything-everywhere-all-at-once",
+    "type": "movie",
+    "title": "Everything Everywhere All at Once",
+    "creator": "Daniel Kwan",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "rating": 7.8,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
+    "description": "Everything Everywhere All at Once is a 2022 American independent absurdist comedy-drama film written and directed by Daniel Kwan and Daniel Scheinert, who produced it with Anthony and Joe Russo and Jonathan Wang. The film incorporates media from several genres, including surreal comedy, science fiction, fantasy, martial arts films, and immigrant narrative. Michelle Yeoh stars as Evelyn Quan Wang, a Chinese-American…",
+    "extra": {
+      "runtime": 139
+    }
+  },
+  {
+    "id": "movie-toy-story",
+    "type": "movie",
+    "title": "Toy Story",
+    "creator": "John Lasseter",
+    "year": 1995,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 8.3,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+    "description": "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios for Walt Disney Pictures, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim…",
+    "extra": {
+      "runtime": 81
+    }
+  },
+  {
+    "id": "movie-spider-man-into-the-spider-verse",
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "creator": "Bob Persichetti",
+    "year": 2018,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png",
+    "description": "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film based on the Marvel Comics character Spider-Man. Directed by Bob Persichetti, Peter Ramsey and Rodney Rothman from a screenplay by Phil Lord and Rothman, it is the first animated film in the Spider-Man franchise. Shameik Moore stars as the voice of Miles Morales, with Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily…",
+    "extra": {
+      "runtime": 117
+    }
+  },
+  {
+    "id": "movie-john-wick",
+    "type": "movie",
+    "title": "John Wick",
+    "creator": "Chad Stahelski",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "rating": 7.4,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+    "description": "John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad. Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his dog, a final gift from his recently deceased wife. The film also stars Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and…",
+    "extra": {
+      "runtime": 101
+    }
+  },
+  {
+    "id": "movie-gladiator",
+    "type": "movie",
+    "title": "Gladiator",
+    "creator": "Ridley Scott",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "rating": 8.5,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png",
+    "description": "Gladiator is a 2000 epic action adventure drama film directed by Ridley Scott and written by David Franzoni, John Logan, and William Nicholson from a story by Franzoni. It stars Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris. Crowe portrays Maximus Decimus Meridius, a Roman general who is betrayed when Commodus, the ambitious son of Emperor Marcus…",
+    "extra": {
+      "runtime": 155
+    }
+  },
+  {
+    "id": "movie-goodfellas",
+    "type": "movie",
+    "title": "Goodfellas",
+    "creator": "Martin Scorsese",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.7,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg",
+    "description": "Goodfellas is a 1990 American biographical gangster film directed by Martin Scorsese, written by Nicholas Pileggi and Scorsese, and produced by Irwin Winkler. It is a film adaptation of Pileggi's 1985 nonfiction book Wiseguy. Starring Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco and Paul Sorvino, the film narrates the rise and fall of Mafia associate Henry Hill and his friends and family from 1955 to 1980.",
+    "extra": {
+      "runtime": 145
+    }
+  },
+  {
+    "id": "movie-se7en",
+    "type": "movie",
+    "title": "Se7en",
+    "creator": "David Fincher",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 8.6,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg",
+    "description": "Seven is a 1995 American crime thriller film directed by David Fincher and written by Andrew Kevin Walker. It stars Brad Pitt and Morgan Freeman, with Gwyneth Paltrow and John C. McGinley in supporting roles. Set in an unnamed, crime-ridden city, the narrative follows disenchanted, nearly retired Detective Lieutenant William Somerset (Freeman) and his newly transferred partner David Mills (Pitt) as they try to stop a…",
+    "extra": {
+      "runtime": 127
+    }
+  },
+  {
+    "id": "movie-blade-runner-2049",
+    "type": "movie",
+    "title": "Blade Runner 2049",
+    "creator": "Denis Villeneuve",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 8,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+    "description": "Blade Runner 2049 is a 2017 American science fiction film directed by Denis Villeneuve from a screenplay by Hampton Fancher and Michael Green, based on a story by Fancher. A sequel to Blade Runner (1982), the film stars Ryan Gosling and Harrison Ford, with Ana de Armas, Sylvia Hoeks, Robin Wright, Mackenzie Davis, Dave Bautista, and Jared Leto in supporting roles. Ford and Edward James Olmos reprise their roles from…",
+    "extra": {
+      "runtime": 164
+    }
+  },
+  {
+    "id": "movie-the-matrix",
+    "type": "movie",
+    "title": "The Matrix",
+    "creator": "Lana Wachowski",
+    "year": 1999,
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating": 8.7,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Matrix.png",
+    "description": "The Matrix is a 1999 science fiction–action film written and directed by the Wachowskis. The first installment in the Matrix film series, it stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano. The film follows a disillusioned computer hacker Neo (Reeves) who discovers that the life he knows is an elaborate deception created by intelligent machines. He is recruited by…",
+    "extra": {
+      "runtime": 136
+    }
+  },
+  {
+    "id": "movie-the-prestige",
+    "type": "movie",
+    "title": "The Prestige",
+    "creator": "Christopher Nolan",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating": 8.5,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+    "description": "The Prestige is a 2006 mystery thriller film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan, based on the 1995 novel by Christopher Priest. Set in Victorian London, the film stars Hugh Jackman and Christian Bale as stage magicians who compete to create a superior teleportation illusion.",
+    "extra": {
+      "runtime": 130
+    }
+  },
+  {
+    "id": "movie-forrest-gump",
+    "type": "movie",
+    "title": "Forrest Gump",
+    "creator": "Robert Zemeckis",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.8,
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "description": "Forrest Gump is a 1994 American comedy-drama film directed by Robert Zemeckis. An adaptation of the 1986 novel of the same name by Winston Groom, the film's screenplay was written by Eric Roth. It stars Tom Hanks in the title role, alongside Robin Wright, Gary Sinise, Mykelti Williamson, and Sally Field in lead roles. The film follows the life of an Alabama man named Forrest Gump (Hanks) and his experiences in the…",
+    "extra": {
+      "runtime": 142
     }
   }
 ]

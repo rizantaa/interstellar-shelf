@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .smoke
+.cache
 
 # Environment (API keys, e.g. VITE_TMDB_API_KEY)
 .env

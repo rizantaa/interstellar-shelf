@@ -168,7 +168,7 @@
     ],
     "rating": 4.5,
     "coverUrl": "https://covers.openlibrary.org/b/id/10618463-L.jpg",
-    "description": "[Comment by Kim Stanley Robinson, on The Guardian's website](https://www.theguardian.com/books/2011/may/14/science-fiction-authors-choice): The Left Hand of Darkness by Ursula K Le Guin (1969) > One of my favorite novels is The Left Hand of Darkness, by Ursula K Le Guin. For more than 40 years I've been recommending this book to people who want to try science fiction for the first time, and it still serves very well…",
+    "description": "The Left Hand of Darkness is a science fiction novel by the American writer Ursula K. Le Guin. Published in 1969, its popularity established Le Guin's status as a major author of science fiction. The novel is set in the fictional universe of the Hainish Cycle, a series of novels and short stories by Le Guin, which she introduced in the 1964 short story \"The Dowry of Angyar\". It was fourth in writing sequence among…",
     "extra": {
       "pages": 304
     }
@@ -195,16 +195,323 @@
     "type": "book",
     "title": "The Silent Patient",
     "creator": "Alex Michaelides",
-    "year": 2018,
+    "year": 2019,
     "genres": [
       "Mystery",
       "Thriller"
     ],
     "rating": 4.2,
-    "coverUrl": "https://covers.openlibrary.org/b/id/9407338-L.jpg",
-    "description": "Alicia Berenson’s life is seemingly perfect. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word. Alicia’s refusal to talk, or give any kind of explanation, turns a domestic tragedy into something far grander, a mystery that captures the public imagination and casts Alicia into notoriety. The price of her art…",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15199089-L.jpg",
+    "description": "The Silent Patient is a 2019 psychological thriller novel written by British–Cypriot author Alex Michaelides. The debut novel was published by Celadon Books, a division of Macmillan Publishers, on 5 February 2019. The audiobook version, released on the same date, is narrated by Louise Brealey and Jack Hawkins. The story is narrated by an English psychotherapist, Theo Faber, dealing with a patient who turns mute after…",
     "extra": {
-      "pages": 352
+      "pages": 402
+    }
+  },
+  {
+    "id": "book-foundation",
+    "type": "book",
+    "title": "Foundation",
+    "creator": "Isaac Asimov",
+    "year": 1951,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "rating": 4.6,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14612610-L.jpg",
+    "description": "One of the great masterworks of science fiction, the Foundation novels of Isaac Asimov are unsurpassed for their unique blend of nonstop action, daring ideas, and extensive world-building. The story of our future begins with the history of Foundation and its greatest psychohistorian: Hari Seldon. For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. Only Hari Seldon, creator of the…",
+    "extra": {
+      "pages": 240
+    }
+  },
+  {
+    "id": "book-neuromancer",
+    "type": "book",
+    "title": "Neuromancer",
+    "creator": "William Gibson",
+    "year": 1984,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 4.3,
+    "coverUrl": "https://covers.openlibrary.org/b/id/283860-L.jpg",
+    "description": "The first of William Gibson's Sprawl trilogy, *Neuromancer* is the classic cyberpunk novel. The winner of the Hugo, Nebula, and Philip K. Dick Awards, *Neuromancer* was the first fully-realized glimpse of humankind’s digital future — a shocking vision that has challenged our assumptions about our technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.…",
+    "extra": {
+      "pages": 317
+    }
+  },
+  {
+    "id": "book-the-three-body-problem",
+    "type": "book",
+    "title": "The Three-Body Problem",
+    "creator": "Liu Cixin",
+    "year": 2008,
+    "genres": [
+      "Sci-Fi",
+      "Science"
+    ],
+    "rating": 4.5,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9157544-L.jpg",
+    "description": "Cixin Liu's trilogy-opening novel about first contact with aliens and the clandestine struggle with them over Earth's future, and its scientific progress in particular. Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space in an attempt to make contact with aliens—and they succeed. An alien civilization on the brink of destruction captures the signal and plans to…",
+    "extra": {
+      "pages": 416
+    }
+  },
+  {
+    "id": "book-a-game-of-thrones",
+    "type": "book",
+    "title": "A Game of Thrones",
+    "creator": "George R. R. Martin",
+    "year": 1996,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "rating": 4.7,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9269962-L.jpg",
+    "description": "***A Game of Thrones*** is the inaugural novel in ***A Song of Ice and Fire***, an epic series of fantasy novels crafted by the American author **George R. R. Martin**. Published on August 1, 1996, this novel introduces readers to the richly detailed world of Westeros and Essos, where political intrigue, power struggles, and magical elements intertwine. The story unfolds through multiple perspectives, each chapter…",
+    "extra": {
+      "pages": 801
+    }
+  },
+  {
+    "id": "book-mistborn-the-final-empire",
+    "type": "book",
+    "title": "Mistborn",
+    "creator": "Brandon Sanderson",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "rating": 4.6,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14658160-L.jpg",
+    "description": "For a thousand years ashes have fallen from the sky. For a thousand years nothing has flourished. For a thousand years the skaa have been enslaved and live in misery, mired in inevitable fear. For a thousand years the Lord Ruler has reigned with absolute power, ruling thanks to terror, his powers and his immortality, aided by \"benders\" and \"inquisitors\", along with the powerful magic of Allomancy.",
+    "extra": {
+      "pages": 669
+    }
+  },
+  {
+    "id": "book-the-lies-of-locke-lamora",
+    "type": "book",
+    "title": "The Lies of Locke Lamora",
+    "creator": "Scott Lynch",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Crime",
+      "Adventure"
+    ],
+    "rating": 4.5,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6307636-L.jpg",
+    "description": "The Lies of Locke Lamora is a 2006 fantasy novel by American writer Scott Lynch, the first book of the Gentleman Bastard series. Elite con artists calling themselves the \"Gentleman Bastards\" rob the rich of the city of Camorr, based on late medieval Venice but on an unnamed world. Two stories interweave: in the present, the Gentleman Bastards fight a mysterious Grey King taking over the criminal underworld; alternate…",
+    "extra": {
+      "pages": 544
+    }
+  },
+  {
+    "id": "book-gone-girl",
+    "type": "book",
+    "title": "Gone Girl",
+    "creator": "Gillian Flynn",
+    "year": 2012,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/15234963-L.jpg",
+    "description": "Gone Girl is a psychological thriller novel by American writer Gillian Flynn, published by Crown Publishing Group on June 5, 2012. The book became popular, making the New York Times Best Seller list.",
+    "extra": {
+      "pages": 711
+    }
+  },
+  {
+    "id": "book-the-girl-with-the-dragon-tattoo",
+    "type": "book",
+    "title": "The Girl with the Dragon Tattoo",
+    "creator": "Stieg Larsson",
+    "year": 2005,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9274740-L.jpg",
+    "description": "Mikael Blomkvist, ekonomireporter, döms till fängelse för förtal av finansmannen Wennerström, och beslutar sig för att ta time out från sitt jobb på tidskriften Millennium. I samma veva får han ett ovanligt uppdrag. Henrik Vanger, tidigare en av landets främsta industriledare, vill att Blomkvist ska skriva släkten Vangers historia. Men det visar sig snart bara vara en täckmantel för Blomkvists verkliga uppgift: att…",
+    "extra": {
+      "pages": 576
+    }
+  },
+  {
+    "id": "book-and-then-there-were-none",
+    "type": "book",
+    "title": "And Then There Were None",
+    "creator": "Agatha Christie",
+    "year": 1939,
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "rating": 4.6,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11172296-L.jpg",
+    "description": "And Then There Were None is a mystery novel by the English writer Agatha Christie, described by her as the most difficult of her books to write. It was first published in the United Kingdom by the Collins Crime Club on 6 November 1939, as Ten Little Niggers, after the children's counting rhyme and minstrel song, which serves as a major element of the plot. A US edition was released in January 1940 with the title And…",
+    "extra": {
+      "pages": 222
+    }
+  },
+  {
+    "id": "book-normal-people",
+    "type": "book",
+    "title": "Normal People",
+    "creator": "Sally Rooney",
+    "year": 2018,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 4.2,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8794265-L.jpg",
+    "description": "At school Connell and Marianne pretend not to know each other. He’s popular and well-adjusted, star of the school soccer team while she is lonely, proud, and intensely private. But when Connell comes to pick his mother up from her housekeeping job at Marianne’s house, a strange and indelible connection grows between the two teenagers - one they are determined to conceal. A year later, they’re both studying at Trinity…",
+    "extra": {
+      "pages": 304
+    }
+  },
+  {
+    "id": "book-the-great-gatsby",
+    "type": "book",
+    "title": "The Great Gatsby",
+    "creator": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
+    "description": "Here is a novel, glamorous, ironical, compassionate – a marvelous fusion into unity of the curious incongruities of the life of the period – which reveals a hero like no other – one who could live at no other time and in no other place. But he will live as a character, we surmise, as long as the memory of any reader lasts. \"There was something gorgeous about him, some heightened sensitivity to the promises of…",
+    "extra": {
+      "pages": 185
+    }
+  },
+  {
+    "id": "book-kafka-on-the-shore",
+    "type": "book",
+    "title": "Kafka on the Shore",
+    "creator": "Haruki Murakami",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/4982600-L.jpg",
+    "description": "A boy trying to escape a gruesome oedipedal prophecy, a simple man who can talk to cats, a mysterious librarian, and a woman waiting for a long-dead lover.",
+    "extra": {
+      "pages": 576
+    }
+  },
+  {
+    "id": "book-guns-germs-and-steel",
+    "type": "book",
+    "title": "Guns, Germs, and Steel",
+    "creator": "Jared Diamond",
+    "year": 1997,
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7884018-L.jpg",
+    "description": "An epic detective story that offers a gripping expose on why the world is so unequal. Professor Jared Diamond traveled the globe for over 30 years trying to answer this question.",
+    "extra": {
+      "pages": 528
+    }
+  },
+  {
+    "id": "book-the-diary-of-a-young-girl",
+    "type": "book",
+    "title": "The Diary of a Young Girl",
+    "creator": "Anne Frank",
+    "year": 1947,
+    "genres": [
+      "History",
+      "Biography"
+    ],
+    "rating": 4.7,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8584021-L.jpg",
+    "description": "Het Achterhuis is de titel van het dagboek van Anne Frank (1929-1945) voor het eerst uitgegeven op 25 juni 1947. Het is genoemd naar het onderduikpand Het Achterhuis op de Prinsengracht en is het verhaal van een ondergedoken jong Joods meisje ten tijde van de Tweede Wereldoorlog. Het is wereldwijd een van de meest gelezen boeken. Sinds 2009 staat Annes dagboek op de Werelderfgoedlijst voor documenten van UNESCO.…",
+    "extra": {
+      "pages": 285
+    }
+  },
+  {
+    "id": "book-cosmos",
+    "type": "book",
+    "title": "Cosmos",
+    "creator": "Carl Sagan",
+    "year": 1980,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "rating": 4.6,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8283901-L.jpg",
+    "description": "This book is about science in its broadest human context, how science and civilization grew up together. It is the story of our long journey of discovery and the forces and individuals who helped to shape modern science, including Democritus, Hypatia, Kepler, Newton, Huygens, Champollion, Lowell and Humason. The book also explores spacecraft missions of discovery of the nearby planets, the research in the Library of…",
+    "extra": {
+      "pages": 354
+    }
+  },
+  {
+    "id": "book-thinking-fast-and-slow",
+    "type": "book",
+    "title": "Thinking, Fast and Slow",
+    "creator": "Daniel Kahneman",
+    "year": 2011,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13290711-L.jpg",
+    "description": "In his mega bestseller, Thinking, Fast and Slow, Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. The impact of overconfidence on corporate strategies, the difficulties of…",
+    "extra": {
+      "pages": 548
+    }
+  },
+  {
+    "id": "book-steve-jobs",
+    "type": "book",
+    "title": "Steve Jobs",
+    "creator": "Walter Isaacson",
+    "year": 2011,
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "rating": 4.5,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12374726-L.jpg",
+    "description": "Based on more than forty interviews with Jobs conducted over two years -- as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues -- Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal…",
+    "extra": {
+      "pages": 664
+    }
+  },
+  {
+    "id": "book-the-stranger",
+    "type": "book",
+    "title": "The Stranger",
+    "creator": "Albert Camus",
+    "year": 1942,
+    "genres": [
+      "Philosophy",
+      "Drama"
+    ],
+    "rating": 4.4,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13151269-L.jpg",
+    "description": "*L'Étranger* est le premier roman publié d’Albert Camus, paru en 1942. Il prend place dans la tétralogie que Camus nommera « cycle de l’absurde » qui décrit les fondements de la philosophie camusienne : l’absurde. Le roman a été traduit en soixante-huit langues.",
+    "extra": {
+      "pages": 143
     }
   }
 ]
